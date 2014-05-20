@@ -1,4 +1,4 @@
 CodeSnippets
 ============
 
-Common Xcode snippets.
+Common codesnippets used in Xcode.
